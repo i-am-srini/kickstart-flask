@@ -1,4 +1,4 @@
-# Import community modules. 
+# Import community modules 
 import sys
 import json
 from elasticapm.contrib.flask import ElasticAPM
